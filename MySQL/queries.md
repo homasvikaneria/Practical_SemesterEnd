@@ -51,7 +51,7 @@ FROM MenuItems;
 ```
 
 
-## 2.6. Find Total Price of All Items
+## 2.5. Find Total Price of All Items
 
 ```sql
 SELECT SUM(price) AS total_price
